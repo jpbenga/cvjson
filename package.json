@@ -1,0 +1,15 @@
+{
+  "name": "cvjson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx resume export --theme eloquent ./index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jsonresume-theme-eloquent": "^4.1.0",
+    "resume-cli": "^3.0.8"
+  }
+}
